@@ -503,8 +503,8 @@ show_usage() {
 
 show_menu() {
     echo -e "
-  ${green}m-ui Panel Management Script${plain}
-  ${green}0.${plain} exit script
+  ${green}M-ui Panel Management Script${plain}
+  ${green}0.${plain} Exit Script
 ————————————————
   ${green}1.${plain} Install m-ui
   ${green}2.${plain} Update m-ui
@@ -516,7 +516,7 @@ show_menu() {
   ${green}7.${plain} View current panel settings
 ————————————————
   ${green}8.${plain} Start m-ui
-  ${green}9.${plain} stop m-ui
+  ${green}9.${plain} Stop m-ui
   ${green}10.${plain} Reboot m-ui
   ${green}11.${plain} Check m-ui state
   ${green}12.${plain} Check m-ui logs
